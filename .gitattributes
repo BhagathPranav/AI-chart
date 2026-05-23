@@ -1,0 +1,11 @@
+# Ignore lock files and generated files from language stats
+package-lock.json linguist-generated=true
+*.lock linguist-generated=true
+
+# Ignore config files
+*.config.js linguist-generated=true
+*.config.ts linguist-generated=true
+
+# Mark HTML/CSS as the primary language if desired
+*.html linguist-detectable=true
+*.css linguist-detectable=true
