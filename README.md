@@ -1,6 +1,6 @@
 # Pranav's AI
 
-A personal AI chatbot that acts as a digital clone of **Bhagath Pranav Kumar**. It responds conversationally in Pranav's voice, using his personality, background, and preferences to give authentic, human-like answers.
+A personal AI chatbot that acts as a digital clone of **Bhagath Pranav Kumar**. It responds conversationally using his personality, background, and preferences to give authentic, human-like answers.
 
 ## ✨ Features
 
