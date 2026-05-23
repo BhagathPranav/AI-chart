@@ -18,7 +18,7 @@ const client = new OpenAI({
 });
 
 export const hasApiKey = !!apiKey;
-export const defaultModel = 'llama-3.3-70b-versatile';
+export const defaultModel = 'gemini-3.1-pro';
 
 // ============================================
 // AI CLONE SYSTEM PROMPT
